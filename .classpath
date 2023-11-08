@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Cassandra/src/main/java"/>
+	<classpathentry kind="src" path="Cassandra/src/test/java"/>
+	<classpathentry kind="lib" path="__MACOSX/Cassandra/bin/target/._Cassandra-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/Cassandra/target/._Cassandra-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="Cassandra/bin/target/Cassandra-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="Cassandra/target/Cassandra-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="Cassandra/target/classes"/>
+</classpath>
